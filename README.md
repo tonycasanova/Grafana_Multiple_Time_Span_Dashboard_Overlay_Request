@@ -5,6 +5,7 @@ Objective:
 Input a minimum of four UTC times and display an overlay of the two time spans on one Grafana dashboard.
 
 TimeSpan1_Start to TimeSpan1_Stop
+
 TimeSpan2_Start to TimeSpan2_Stop
 
 
