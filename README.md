@@ -9,6 +9,7 @@ TimeSpan1_Start to TimeSpan1_Stop
 TimeSpan2_Start to TimeSpan2_Stop
 
 
+Prefix the display with "TS1" and "TS2" and allow end user over-ride and or customization.
 
 
 
